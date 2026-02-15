@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Agam Patel 👋</h1>
 
-<!--
-**agam-0-7/agam-0-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Computer Science Student | IoT | Cybersecurity | Web Dev  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Working on real-world projects  
+- 🌱 Learning TypeScript, Backend, IoT  
+- ⚡ Interested in Cybersecurity & Automation  
+
+---
+
+### 🛠 Tech Stack
+
+#### 🌐 Domains
+- IoT  
+- Cyber Security  
+- Blockchain  
+- Web Development  
+
+#### 💻 Languages & Tools
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![Python](https://img.shields.io/badge/Python-yellow)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+
+#### 🔐 Cyber Security
+- Network Security  
+- Basic Cryptography  
+- Vulnerability Testing  
+
+#### ⛓ Blockchain
+- Smart Contracts (Basics)  
+- Supply Chain Tracking  
+- Web3 Concepts  
+
+#### 📡 IoT
+- ESP32 / Arduino  
+- Sensors (TDS, Turbidity, Temp)  
+- Real-time Data Monitoring  
+
+---
+
+### 📌 Featured Projects
+- 🔹 Coffee_Trace – Supply chain traceability  
+- 🔹 SIH-2025 – Hackathon project  
+- 🔹 Water Quality Monitoring (IoT)
+
+---
+
+### 📫 Contact
+- Email: agampatel0076@gmail.com  
+- LinkedIn: www.linkedin.com/in/agam-patel-1005b932a
