@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Agam Patel 👋</h1>
 
 <p align="center">
-CSE-Internet of Things and Cyber Security Including Block Chain Technology | IoT | Cybersecurity | Web Dev  
+CSE-Internet of Things and Cyber Security Including Block Chain Technology | IoT | Cybersecurity| Blockchain | Web Dev  
 </p>
 
 ---
